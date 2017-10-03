@@ -1,0 +1,8 @@
+{
+    "git.confirmSync": false,
+    "files.defaultLanguage": "powershell",
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "window.zoomLevel": 1
+}
